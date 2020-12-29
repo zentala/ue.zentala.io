@@ -10,7 +10,7 @@ const config = {
     logoLink: 'https://ue.zentala.io',
     title:
       "<a href='https://ue.zentala.io'><img class='img-responsive' src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/learn-logo.svg' alt='Learn logo' /></a>",
-    githubUrl: 'https://github.com/hasura/gatsby-gitbook-boilerplate',
+    githubUrl: 'https://github.com/zentala/ue.zentala.io',
     helpUrl: '',
     tweetText: '',
     social: `<li>
@@ -38,30 +38,35 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-      '/introduction', // add trailing slash if enabled above
+      // '/cultural-integration', 
+      // '/cultural-integration/one-language', 
+      // '/cultural-integration/european-media', 
       '/codeblock',
     ],
     collapsedNav: [
+      // '/cultural-integration',
       '/codeblock', // add trailing slash if enabled above
     ],
-    links: [{ text: 'Hasura', link: 'https://hasura.io' }],
+    links: [
+      // { text: 'Hasura', link: 'https://hasura.io' }
+    ],
     frontline: false,
     ignoreIndex: true,
     title:
       "<a href='https://hasura.io/learn/'>graphql </a><div class='greenCircle'></div><a href='https://hasura.io/learn/graphql/react/introduction/'>react</a>",
   },
   siteMetadata: {
-    title: 'Gatsby Gitbook Boilerplate | Hasura',
-    description: 'Documentation built with mdx. Powering hasura.io/learn ',
+    title: 'European Union Development & Reform Agenda',
+    description: 'Bunch of ideas of how to live better together',
     ogImage: null,
-    docsLocation: 'https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content',
+    docsLocation: 'https://github.com/zentala/ue.zentala.io/tree/develop/content',
     favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
   },
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.
     manifest: {
-      name: 'Gatsby Gitbook Starter',
-      short_name: 'GitbookStarter',
+      name: 'European Union Development & Reform Agenda',
+      short_name: 'EU-DRA',
       start_url: '/',
       background_color: '#6b37bf',
       theme_color: '#6b37bf',
