@@ -29,6 +29,32 @@ Digital integration will:
 - make europe really digital. for now europe is moving away from being digital. countires digtalizing itself, but UE not at all. time to digtalize UE.
 - digital and european scale eGov is required for business!
 
+# Role of eGov systems in the world political stability & china detraction
+Future of govements and administration is digital. 
+Whoever doubt that, should aready be sure after COVID pandemy. 
+eGovement solutions become more important then ever during those times. 
+
+United Europe has potencial to develop a world-class eGov solutions. 
+Those solutions could and should be exported to the third counties. 
+This way we will promote democratic values and ways of solving problems.
+
+Let's me explain.
+
+China already exports their IT eGov systems. With those IT eGov systems they export specyfic, totalitaric, way of ruling the country. With constantly growing role of those it systems, in middle-term (30y?), this process will push polliticaly (those countires who are using china egov software) torwards China and totalitarism.
+
+If govement will have a stick, they will use a stick on their citizens. If they will have a carrot, they will use a carrot. 
+China is selling it-egov-sticks. Let's grow and sell it-egov-carrots. 
+
+What Europe can do for the world peace and wellbeing is exporting democary trough the technology, trough proposed it egov systems.
+I believe, that the way we will digitalize our political systems and administration, will shape the next one/few hundreds years of political history. 
+
+
+I would like to notice, that **for the first time in history we have a chance to provide all World citizens amlost equall access to one public service**, and this is **eGov** because everyone will have in 1-2 decades when digitalization will be pretty done. With "one simple trick" we could easily provide poor countries something that will increase their quality of live and productivity. Possiblity to open company, to learn online, to control medical data, to sign documents online, etc.
+
+# Europe has potential to become a data-Swiss-bank for new gold (data)
+With a strong tradition of personal freedom, word freedom, privacy, banking freedom we are in the best position to become a datacenter-Switzland for world. Data is a new gold. Gold need banks, where can be safely keeped. Where would you store the most secret and important information if you should have to store it somewhere? Where poor and destabilized country should keep their eGov data? Europe could be this place. Safe haven for the data. We are in the best position to take this role in global because of regualations and traditions that we already had.
+
+
 # Build eGovernment core together
  
 * we don't have money to do it professional alone
