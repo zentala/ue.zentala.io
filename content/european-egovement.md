@@ -133,3 +133,31 @@ rzad biurokratyczny i rzad technokratyczny
 playnne przejscie do nowoczesnego rzadu
 * dwa rzady, stary - zapewniajacy plynnosc dzialania instytucji, nowy - wdrazajacy innowacje; stary rzad ma stworzyc podkladke legislacyjna pod te wdrozenia i taki sposob dzialania Panstwa po to aby zachowac plynnosc dzialania instytucji i ciaglosc prawa,
 * w praktyce wyglada to tak ze instytucje dzialaja jak obecnie, szkoly ucza jak obecnie, ale nowy rzad decyduje aby w konkretnych placowkach wdrozyc inny program nauczania, i stary rzad robi specjalna ustawe ktora pozwala nowemu rzadowi zlecac takie rzeczy, tworzymy do tego procedury
+
+
+## IT and robotics needs common framwework where can oparate 
+licences, maps, person contacts, in order to make is scalable and easy to implement, in order to develop one european market for robotics and IoT we need to unify eGov core. we need those unified systems if we want to be albe use the same robots i autonomouys vehicles around countries. this is important. ue is about accessbility to markets. and our separated it systems are not accesible for robotics, europe is not digitally ready for iot and robotisc revolution. but we need to prepare if we want to have a bit of this cake. in other case we will still slowly die economicaly. we need on market for robotics, huge market, with the same or similar public it infrasturcture. this way we will create standards that will be esported. also thos way our european innowaciteve compoanies will acheive scale. that is very needed in those kinds of investmets. 
+
+it should be easy for italian robotic company that is building homes with 3d printing, to come to poland, and use machine legalized in IT in PL legally, its important to have the same maps system for the robot, so it can position itself before start prointing the hause. that's another importnat (this time economically) for developing egov together. 
+
+## privacy, control over data, control over code
+* every cointry deoply susyems on their own. manage it on their own, on their own theritory
+* there should be some exchange automatic system, so that's why protocols and data format unification is crucial
+* it's possible to create european decentalized cloud for gov data, but not sure parties will be interested
+* data backups could be randomly distributed on servers accross UE and encrypted
+* we could (and proabaly should) track data access and integity with blockchain
+* you can encryot a big file, make a control sum md5, save it in the blockchain and being sure for the lifetime that this file wasnt modyfied untill the control sum of the file match to the control sum on the blockchain
+* we could also similar way, automaticaly, track and save access logs (to the data)
+  
+
+
+  # EU must take more active role in stymulating and implementing innowavations
+Support middle companies & invest in innowaction
+* i worked in french startup. But it didnt develope well. Because it earns money when solution is introduced with scale. 
+* we (in UE) have thousets of hospitals that need better logistics, but we dont intrudce there modern solutions. govement should allow to grow startups in the same time introducing modern solutions in govements
+* in some big cities we can build a skyscapers to move govement instututions there, and we can navigate accros those huge administration compexes with mobile apps
+* we can automate clening of city and grow auropean innovatice companies on this
+* we can produce self-driving buses, if we allow local govements to test it easily
+* we can invest in autonomyos city cleaning
+all of those actions could provide reveniue and we should invest in this direction
+we need invest even beacuse our societeies are aging
