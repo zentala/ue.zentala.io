@@ -13,20 +13,21 @@ const config = {
     githubUrl: 'https://github.com/zentala/ue.zentala.io',
     helpUrl: '',
     tweetText: '',
-    social: `<li>
-		    <a href="https://twitter.com/hasurahq" target="_blank" rel="noopener">
-		      <div class="twitterBtn">
-		        <img src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/twitter-brands-block.svg' alt={'Twitter'}/>
-		      </div>
-		    </a>
-		  </li>
-			<li>
-		    <a href="https://discordapp.com/invite/hasura" target="_blank" rel="noopener">
-		      <div class="discordBtn">
-		        <img src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/discord-brands-block.svg' alt={'Discord'}/>
-		      </div>
-		    </a>
-		  </li>`,
+    social: ``,
+    // social: `<li>
+		//     <a href="https://twitter.com/hasurahq" target="_blank" rel="noopener">
+		//       <div class="twitterBtn">
+		//         <img src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/twitter-brands-block.svg' alt={'Twitter'}/>
+		//       </div>
+		//     </a>
+		//   </li>
+		// 	<li>
+		//     <a href="https://discordapp.com/invite/hasura" target="_blank" rel="noopener">
+		//       <div class="discordBtn">
+		//         <img src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/discord-brands-block.svg' alt={'Discord'}/>
+		//       </div>
+		//     </a>
+		//   </li>`,
     links: [{ text: '', link: '' }],
     search: {
       enabled: false,
@@ -38,22 +39,35 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-      // '/cultural-integration', 
-      // '/cultural-integration/one-language', 
-      // '/cultural-integration/european-media', 
-      '/codeblock',
+      '/cultural-integration', 
+      '/european-egovement', 
+      '/social-politics',
+      '/transport-and-logistics',
+      '/education',
+      '/finance-reforms',
+      '/environment',
+      '/health-care',
+      '/ideas-for-poland',
     ],
     collapsedNav: [
-      // '/cultural-integration',
-      '/codeblock', // add trailing slash if enabled above
+      '/cultural-integration', 
+      '/european-egovement', 
+      '/social-politics',
+      '/transport-and-logistics',
+      '/education',
+      '/finance-reforms',
+      '/environment',
+      '/health-care',
+      '/ideas-for-poland',
+      // '/codeblock', // add trailing slash if enabled above
     ],
     links: [
       // { text: 'Hasura', link: 'https://hasura.io' }
     ],
     frontline: false,
     ignoreIndex: true,
-    title:
-      "<a href='https://hasura.io/learn/'>graphql </a><div class='greenCircle'></div><a href='https://hasura.io/learn/graphql/react/introduction/'>react</a>",
+    title: "",
+      // "<a href='https://hasura.io/learn/'>graphql </a><div class='greenCircle'></div><a href='https://hasura.io/learn/graphql/react/introduction/'>react</a>",
   },
   siteMetadata: {
     title: 'European Union Development & Reform Agenda',
