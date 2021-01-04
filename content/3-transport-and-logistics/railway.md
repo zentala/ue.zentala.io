@@ -4,10 +4,13 @@ metaTitle: "Build high-speed autonomous railway across UE"
 metaDescription: "Build high-speed autonomous railway across UE"
 ---
 
+I should be able to enter into high speed train at 10 PM in Wilno and wake up at 10 AM in Lisbona.
+We should have a grid of high
+
 why do we even using airplanes to travel across UE?
 there is no reason to use a flight during european travel & we need to speed up it & make more avaliable
 cheap and ecological (!) transport
-I should be able to enter into high speed train at 10 PM in Wilno and wake up at 10 AM in Lisbona
+
 it will increase tourism and economical grow especially in isolated regions like south italy, portugal, greece
 it may and should be affordable for low-income class (where radicalism and nationalism is growing) what will support european integration
 routes (examples, someone should draw a map)

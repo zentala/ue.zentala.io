@@ -4,11 +4,9 @@ metaTitle: "Introduce Official European English"
 metaDescription: "Lets introdice English as a second official language in every UE country"
 ---
 
-English is already de facto 2nd official language in the UE.
-Is widely adoped across whole europe by busines.
-I use to work in French, German and British companies. 
-All the time I have been spoken english. 
-Even young genration of French adopted english good enough ;) (smile to my french friends)
+English is already _de facto_ 2nd official language in the UE.
+Is widely adoped across the Europe by busines and in almost daily use among younger geneation (online). 
+I use to work in French, German and British companies. All the time I have been spoken english. 
 
 It would be helpful for business and UE citizens if they would do all required formal job in european countries in english
 

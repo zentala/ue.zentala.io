@@ -5,7 +5,7 @@ metaDescription: ""
 ---
 
 
-I will tell you something guys. As a europeans we are burning crazy amount of money for e administration. 
+As a europeans we are burning crazy amount of money for e administration. 
 We are writing this software separately and we are not able to finish, because this is just to complex project and developers costs a lot.
 Just think about that. Every 26 countries hire their own developers to build symilar systems. Does it make any sens?
 Does italian dever needs different eDeverLicence then polish one? Why did we unify documents accros UE? To split the apps now?

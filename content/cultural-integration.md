@@ -1,11 +1,39 @@
 ---
+slug: "/en/cultural-integration"
 title: "Cultural integration"
+subtitle: "---------------"
 metaTitle: "Introduce Official European English"
 metaDescription: "Lets introdice English as a second official language in every UE country"
 ---
 
 Thesis:
 Cultural integration is crutial for long-lasting peace and stability in the Europe.
+
+Methods:
+- english as formal language
+- reduce role of national media
+- develop and invest in european scale media and culture
+- develop europen culture
+
+The goal is to start making politycs in one language. 
+We have a complex problems to discuss together. 
+We are staning in front of 4th industiral revoliution.
+New technologies that are borning now can kill daying euriope or give the europe the power to grow.
+Threre is no way to stand and watch. 
+
+For example if we will not invest in eueropean media and lagunage, then russia will be still able to contuniee information war, where they produce differend kind of fake news for different nations and make them hostile against each other. We need one media, one languange and one culture to start real dialog. 
+
+We also need a language for a economic development. In the era of information economy, information geneate value. But translations are huge cost of spreading this value, of genertaiting it in scale, etc. We need infrastructure for cheper information exchange. This infrastrucure is one languge. 
+
+I want an Europe where europeans write their blogs in english and I am reading blogs of other europeans in english. I dont want to live in the bubble of polish media. And you also dont want to live in the bublee of your national media, if you want to be informed well. We all need access to the ifnromations and infomration echange, and our languages are huge barrier in spreading, shareing, exchanigng informations, pointos of view, in debate. 
+
+I want to watch european movies, I want to have an european social media. We need one language to have an eurpean social media. We need on language to get eniugh big scale to be able to grow global IT comapnioes. 
+
+
+I want to live in the europe where whole european parlament talk in the same languge. We can't be serious about european integration if we will have to translate what we are saying. 
+
+
+
 
 Europen Union may fail. Culture will reman and will help to reborn and to rebuild this project other way if need.
 We need to think about the Europe in long term. What if EU will fall down? How will we integrate it again?
