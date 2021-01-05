@@ -4,6 +4,25 @@ import styled from '@emotion/styled';
 import NightImage from './images/night.png';
 import DayImage from './images/day.png';
 
+const theme = {
+  iconSize: '30', // px; icon with day or night
+  sliderWidth: '50', // px
+  sliderHeight: '20', // px
+  transitionTime: '0.4s',
+  night: {
+    iconBgColor: '#465C75',
+    iconShadow: '0 0px 15px #202020',
+    sliderBgColor: 'linear-gradient(to right, #011f3d, #082f5c);',
+  },
+  day: {
+    // iconBgColor: '#ffe5b9',
+    iconBgColor: '#fff',
+    iconShadow: '0 0px 15px #202020',
+    // sliderBgColor: 'linear-gradient(to right, #ffe5b9, #fff0a4)',
+    sliderBgColor: 'linear-gradient(to right, #ffc85c, #ffc85c)',
+  }
+}
+
 const StyledSwitch = styled('div')`
   display: flex;
   justify-content: flex-end;
@@ -14,8 +33,8 @@ const StyledSwitch = styled('div')`
   .switch {
     position: relative;
     display: inline-block;
-    width: 50px;
-    height: 20px;
+    width: ${theme.sliderWidth}px;
+    height: ${theme.sliderHeight}px;
   }
 
   /* Hide default HTML checkbox */
@@ -33,49 +52,51 @@ const StyledSwitch = styled('div')`
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: #ccc;
-    -webkit-transition: 0.4s;
-    transition: 0.4s;
+    background: ${theme.night.sliderBgColor};
+    -webkit-transition: ${theme.transitionTime};
+    transition: ${theme.transitionTime};
   }
 
   .slider:before {
     position: absolute;
     content: '';
-    height: 30px;
-    width: 30px;
+    height: ${theme.iconSize}px;
+    width: ${theme.iconSize}px;
     left: 0px;
     bottom: 4px;
     top: 0;
     bottom: 0;
     margin: auto 0;
-    -webkit-transition: 0.4s;
-    transition: 0.4s;
-    box-shadow: 0 0px 15px #2020203d;
-    background: white url(${NightImage});
+    -webkit-transition: ${theme.transitionTime};
+    transition: ${theme.transitionTime};
+    box-shadow: ${theme.night.iconShadow};
+    background: ${theme.night.iconBgColor} url(${NightImage});
     background-repeat: no-repeat;
     background-position: center;
   }
 
   input:checked + .slider {
-    background: linear-gradient(to right, #fefb72, #f0bb31);
+    box-shadow: ${theme.night.iconShadow};
+    background: ${theme.day.sliderBgColor};
   }
 
   input:checked + .slider:before {
-    -webkit-transform: translateX(24px);
-    -ms-transform: translateX(24px);
-    transform: translateX(24px);
-    background: white url(${DayImage});
+    -webkit-transform: translateX(${theme.sliderWidth-theme.iconSize}px);
+    -ms-transform: translateX(${theme.sliderWidth-theme.iconSize}px);
+    transform: translateX(${theme.sliderWidth-theme.iconSize}px);
+    background: ${theme.day.iconBgColor} url(${DayImage});
+    background-size: 100%;
     background-repeat: no-repeat;
     background-position: center;
   }
 
   /* Rounded sliders */
   .slider.round {
-    border-radius: 34px;
+    border-radius: ${theme.sliderHeight/2}px;
   }
 
   .slider.round:before {
-    border-radius: 50%;
+    border-radius: ${theme.iconSize/2}px;
   }
 `;
 
