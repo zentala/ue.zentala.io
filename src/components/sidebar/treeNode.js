@@ -4,7 +4,7 @@ import ClosedSvg from '../images/closed';
 import config from '../../../config';
 import Link from '../link';
 
-const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, ...rest }) => {
+const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, subtitle, items, ...rest }) => {
   const isCollapsed = collapsed[url];
 
   const collapse = () => {
@@ -27,7 +27,8 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
     <li className={calculatedClassName}>
       {title && (
         <Link to={url}>
-          {title}
+          <div style={{width: "100%; flex: 1"}}>{title}</div>
+          <div style={{fontSize: "10px", }}>{subtitle}</div>
           {!config.sidebar.frontLine && title && hasChildren ? (
             <button onClick={collapse} aria-label="collapse" className="collapser">
               {!isCollapsed ? <OpenedSvg /> : <ClosedSvg />}

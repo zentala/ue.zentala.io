@@ -60,7 +60,6 @@ export default class MDXRuntimeTest extends Component {
       .map(slug => {
         if (slug) {
           const { node } = allMdx.edges.find(({ node }) => node.fields.slug === slug);
-
           return { title: node.fields.title, url: node.fields.slug };
         }
       });
@@ -79,7 +78,7 @@ export default class MDXRuntimeTest extends Component {
     return (
       <Layout {...this.props}>
         <Helmet>
-          {metaTitle ? <title>{metaTitle}</title> : null}
+          {metaTitle ? <title>{metaTitle} | {title}</title> : title}
           {metaTitle ? <meta name="title" content={metaTitle} /> : null}
           {metaDescription ? <meta name="description" content={metaDescription} /> : null}
           {metaTitle ? <meta property="og:title" content={metaTitle} /> : null}
@@ -91,7 +90,8 @@ export default class MDXRuntimeTest extends Component {
           <link rel="canonical" href={canonicalUrl} />
         </Helmet>
         <div className={'titleWrapper'}>
-          <StyledHeading>{mdx.fields.title}</StyledHeading>
+          {/* TODO format subtitle properly */ }
+          <StyledHeading>{mdx.fields.title}<br/>{mdx.fields.subtitle}</StyledHeading>
           <Edit className={'mobileView'}>
             {docsLocation && (
               <Link className={'gitBtn'} to={`${docsLocation}/${mdx.parent.relativePath}`}>
@@ -101,6 +101,10 @@ export default class MDXRuntimeTest extends Component {
           </Edit>
         </div>
         <StyledMainWrapper>
+          {/* TODO some nice message and formating (tag?) */}
+          { mdx.fields.visible == "false" ? (
+            <p>this page is hidden</p>
+          ) : null }
           <MDXRenderer>{mdx.body}</MDXRenderer>
         </StyledMainWrapper>
         <div className={'addPaddTopBottom'}>
@@ -123,6 +127,8 @@ export const pageQuery = graphql`
       fields {
         id
         title
+        subtitle
+        visible
         slug
       }
       body

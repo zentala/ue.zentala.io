@@ -39,6 +39,7 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
+      '/introduction',
       '/cultural-integration', 
       '/european-egovement', 
       '/social-politics',
@@ -50,6 +51,7 @@ const config = {
       '/ideas-for-poland',
     ],
     collapsedNav: [
+      '/introduction',
       '/cultural-integration', 
       '/european-egovement', 
       '/social-politics',

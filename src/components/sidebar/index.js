@@ -100,6 +100,8 @@ const SidebarLayout = ({ location }) => (
               fields {
                 slug
                 title
+                subtitle
+                visible
               }
             }
           }

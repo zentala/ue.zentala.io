@@ -3,7 +3,7 @@ title: "Markdown testing"
 subtitle: "testing subtitle!!!!!!"
 metaTitle: "Markdown testing"
 metaDescription: ""
-hidden: true
+visible: "false"
 ---
 
 Custom youtube 

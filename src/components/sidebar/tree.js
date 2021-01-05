@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { AccountBalance } from 'styled-icons/material';
 import config from '../../../config';
 import TreeNode from './treeNode';
 
@@ -18,10 +19,12 @@ const calculateTreeData = edges => {
       accu,
       {
         node: {
-          fields: { slug, title },
+          fields: { slug, title, subtitle, visible },
         },
       }
     ) => {
+      if(visible == "false") return accu; 
+
       const parts = slug.split('/');
 
       let { items: prevItems } = accu;
@@ -50,12 +53,14 @@ const calculateTreeData = edges => {
       if (existingItem) {
         existingItem.url = slug;
         existingItem.title = title;
+        existingItem.subtitle = subtitle;
       } else {
         prevItems.push({
           label: parts[slicedLength],
           url: slug,
           items: [],
           title,
+          subtitle,
         });
       }
       return accu;
