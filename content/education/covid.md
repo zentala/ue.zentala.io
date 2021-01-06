@@ -1,3 +1,11 @@
+---
+title: "COVID change for education reform"
+subtitle: ""
+metaTitle: ""
+metaDescription: ""
+visible: "true"
+------
+
 # Marnujemy COVIDową szansę na reformę edukacji
 
 nikt nie interesuje sie dzieciakami

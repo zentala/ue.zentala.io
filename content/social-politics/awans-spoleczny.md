@@ -1,3 +1,12 @@
+---
+title: "Awans"
+subtitle: ""
+metaTitle: ""
+metaDescription: ""
+visible: "true"
+------
+
+
 https://youtu.be/aS4GtE3SQlI?t=751
 ksiazka o tym co sprawia ze / dlaczego narody przegyurwaja
 inastytucje wlaczajace i wyzyskujace 

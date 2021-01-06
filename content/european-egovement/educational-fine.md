@@ -1,3 +1,11 @@
+---
+title: "Education fine"
+subtitle: ""
+metaTitle: ""
+metaDescription: ""
+visible: "true"
+------
+
 just an idea possible (and worth im my opinion) to implement with eGov
 this also shares the idea how I would distribute features and share responsibilities
 this way local govement can be more hospitable, on other hand ensure that citizen will not make the same crime double (eg crossing red light or smth)

@@ -1,3 +1,11 @@
+---
+title: "Life-Time Univesities"
+subtitle: ""
+metaTitle: ""
+metaDescription: ""
+visible: "true"
+------
+
 Set up European Life-Time Univesities
 docelowo kazdy ma obowiazek edukacji, takze dorosly
 poczatkowo ucza sie chetni, za darmo

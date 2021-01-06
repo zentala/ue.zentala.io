@@ -1,8 +1,10 @@
 ---
 title: "One payment zone instead one currency zone"
+subtitle: ""
 metaTitle: ""
 metaDescription: ""
----
+visible: "true"
+------
 
 Euro failed in some areas
 But we should provide people a way to easily buy and sell as before

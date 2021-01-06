@@ -1,7 +1,9 @@
 ---
 title: "European eGovement"
+subtitle: ""
 metaTitle: ""
 metaDescription: ""
+visible: "true"
 ---
 
 

@@ -1,7 +1,9 @@
 ---
-title: "education"
+title: "Education"
+subtitle: ""
 metaTitle: ""
 metaDescription: ""
+visible: "true"
 ---
 
 Education is the key to keep going with 4th Industrial Revolution

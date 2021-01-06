@@ -1,7 +1,9 @@
 ---
-title: "media1"
-metaTitle: "media2"
-metaDescription: "media3"
+title: "European media"
+subtitle: ""
+metaTitle: ""
+metaDescription: ""
+visible: "true"
 ---
 
 european media

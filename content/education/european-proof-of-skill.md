@@ -1,3 +1,11 @@
+---
+title: "European Proof of Skill"
+subtitle: ""
+metaTitle: ""
+metaDescription: ""
+visible: "true"
+------
+
 Introduce European Proof of Skill
 
  proof of skills - i can go to university, make tests and get proof on my skills that are accepted in whole ue

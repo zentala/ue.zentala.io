@@ -1,7 +1,9 @@
 ---
 title: "New european cryptocurrency on top of euro and national currencies"
+subtitle: ""
 metaTitle: ""
 metaDescription: ""
+visible: "true"
 ---
 
 We can't be sure if euro will survie, we need a backup plan for scenario if it will not survive

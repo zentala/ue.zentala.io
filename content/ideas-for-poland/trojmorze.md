@@ -1,3 +1,11 @@
+---
+title: "Trójmorze"
+subtitle: ""
+metaTitle: ""
+metaDescription: ""
+visible: "true"
+------
+
 
 Trójmorze
 Wiele z opisanych idei mozna zastosowac w celu politycznej integracj Trojmorza w takiej czy innej formie, jesli UE nie bedzie zainteresowana ich wdrozeniem. 

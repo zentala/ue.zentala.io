@@ -1,10 +1,10 @@
 ---
-slug: "/en/cultural-integration"
 title: "Cultural integration"
 subtitle: ""
 metaTitle: "Introduce Official European English"
 metaDescription: "Lets introdice English as a second official language in every UE country"
----
+visible: "true"
+------
 
 Thesis:
 Cultural integration is crutial for long-lasting peace and stability in the Europe.

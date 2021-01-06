@@ -1,3 +1,12 @@
+---
+title: "Poland in UE"
+subtitle: ""
+metaTitle: ""
+metaDescription: ""
+visible: "true"
+------
+
+
 # Korzysci dla Polski z przynaleznosci do UE
 3 korzyści z przynależności PL do UE w 2020 & EVER
 

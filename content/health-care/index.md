@@ -1,3 +1,11 @@
+---
+title: "Health"
+subtitle: ""
+metaTitle: ""
+metaDescription: ""
+visible: "true"
+------
+
 that would be a part of egov, but i decided to separate it beacuse of importance of this topic
 helath care also needs digitalization
 I see a huge risk for the equality in UE when our health care systtems will differ miuch

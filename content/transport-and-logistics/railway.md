@@ -1,8 +1,10 @@
 ---
 title: "Build high-speed autonomous railway across UE"
+subtitle: ""
 metaTitle: "Build high-speed autonomous railway across UE"
 metaDescription: "Build high-speed autonomous railway across UE"
----
+visible: "true"
+------
 
 I should be able to enter into high speed train at 10 PM in Wilno and wake up at 10 AM in Lisbona.
 We should have a grid of high

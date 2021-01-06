@@ -1,8 +1,10 @@
 ---
 title: "Autonomous multimodal transportation across UE"
+subtitle: ""
 metaTitle: ""
 metaDescription: ""
----
+visible: "true"
+------
 
 * the vision is that I can ship a container from South Italy to Eastern Poland and all operations between posting and receiving will be done by robots, 100% autonomously; that should be cheap and fast
 * that is crucial for parts of UE that are far away from the core; those parts of UE are developing slower because of costs of transportation, and low economical grow causes raise of populism and nationalism; we need to decrease costs of making business for those "country-sides", that will increase economical grow what will decrease centrifugal tendencies

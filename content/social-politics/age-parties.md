@@ -1,3 +1,12 @@
+---
+title: "Age parties"
+subtitle: ""
+metaTitle: ""
+metaDescription: ""
+visible: "true"
+------
+
+
 age parities in govement and/or administration
 Najbardziej zaawansowany tyechnologicznie rzad w UE - Estonia - jest jednoczesnie najmlodszym rządem w całem UE. Obsadzenie cześci stanowisk w rządzie i administracji młodymi osobami przyspieszy implementacje innowacji przez państwa i instytucje UE.
 

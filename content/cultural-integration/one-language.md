@@ -1,8 +1,11 @@
 ---
 title: "Introduce English as a 2nd official language of every UE country"
+subtitle: ""
 metaTitle: "Introduce Official European English"
 metaDescription: "Lets introdice English as a second official language in every UE country"
+visible: "true"
 ---
+
 
 English is already _de facto_ 2nd official language in the UE.
 Is widely adoped across the Europe by busines and in almost daily use among younger geneation (online). 
