@@ -1,6 +1,6 @@
 
 
-# EU 2020 [![Website status](https://img.shields.io/uptimerobot/status/m787025974-4e422831aded279b03c05d57)](https://stats.uptimerobot.com/rB392tAOkQ) [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/zentala/eu.zentala.io)
+# 🇪🇺 EU 2020 [![Website status](https://img.shields.io/uptimerobot/status/m787025974-4e422831aded279b03c05d57)](https://stats.uptimerobot.com/rB392tAOkQ) [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/zentala/eu.zentala.io)
 ## 🌍 Overview
 Bunch of ideas of how we could reform and modernize the European Union in the spirit of Green Sustainability, Information Economy and 4th Industrial Revolution. You are welcomed to read them all [on the website](https://ue.zentala.io/). This document contains documentation for futher developers and contributors only.
 
@@ -20,13 +20,21 @@ Serverless setup with:
 
 ## 🌳 Project structure
 Main branches & files structure:
-* `develop` constains source code - this is from where you want to develop and where you want to merge you PR's
-  * [content/](content/) - source of the markdown
-  * [public/](public/) - built project (git-ignored by default)
-  * [src/](src/) - website theme
-* `deploy` contains built package that is served to the end user - don't edit it manually; deploy here from `develop` with `npm run deploy`
-  * `CNAME` file is required for github to know the website domain
-  * `index.html` is an entry point for the server
+* `develop`
+  * constains source code
+  * from here you want to develop
+  * here you want to merge you PR's
+  * important files:
+    * [content/](content/) - source of all articles written in markdown
+    * [src/](src/) - Gatsby website theme (React.js)
+    * [public/](public/) - temporary project built (git-ignored by default)
+* `deploy`
+  * contains built package that is served to the end user
+  * NEVER edit it manually
+  * deploy here from `develop` with `npm run deploy`
+  * important files:
+    * `CNAME` file is required for github to know the website domain
+    * `index.html` is an entry point for the server
 
 
 
