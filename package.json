@@ -59,7 +59,7 @@
     "build": "gatsby build --prefix-paths",
     "format": "prettier --write \"src/**/*.{js,jsx,css,json}\"",
     "lint": "eslint --fix \"src/**/*.{js,jsx}\"",
-    "deploy": "gatsby build && gh-pages -d public -b main"
+    "deploy": "gatsby build && echo \"eu.zentala.io\" >> public/CNAME && gh-pages -d deploy -b main"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
