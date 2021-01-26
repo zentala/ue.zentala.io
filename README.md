@@ -4,6 +4,7 @@
 ## 🌍 Overview
 Bunch of ideas of how we could reform and modernize the European Union in the spirit of Green Sustainability, Information Economy and 4th Industrial Revolution. You are welcomed to read them all [on the website](https://ue.zentala.io/). This document contains documentation for futher developers and contributors only.
 
+
 ## ⚡️ Online development
 Start __ready-to-code development environment__ for this project directly from your __browser__:
 
@@ -11,14 +12,16 @@ Start __ready-to-code development environment__ for this project directly from y
 
 Just click the button above and register with your GitHub account if needed. After a while (building time) your IDE will be ready for development. No manual setup is required.
 
+
 ## 🏗  About the setup
-Serverless setup with:
+
+### Serverless with... ☁️
 * [Gatsby](https://www.gatsbyjs.org) - markdown static page generator
 * [GitHub Pages](https://pages.github.com/) - static site hosting service
 * [GitPod](https://gitpod.com/) - ready-to-code development environment
 * [UptimeRobot](https://uptimerobot.com/) - website status every 5 minutes
 
-## 🌳 Project structure
+### Project structure 🌳
 * `develop` branch
   * constains source code
   * from here you want to develop
@@ -34,7 +37,6 @@ Serverless setup with:
   * important files:
     * `CNAME` file is required for github to know the website domain
     * `index.html` is an entry point for the server
-
 
 
 ## 💻 Local development
@@ -55,6 +57,7 @@ npm run start
 
 After a while local server should be running under [http://localhost:8000/](http://localhost:8000/).
 
+
 ## ☝ Future development
 
 ### Known issues 💩
@@ -72,6 +75,7 @@ After a while local server should be running under [http://localhost:8000/](http
 * wiki, interactive map character
 * you can see what you already saw/readed
 * mindmap, maybe embbed?
+
 
 ## ❤️ Liked it?
 If you like this project, feel free to thank me with a coffee (or a beer):
