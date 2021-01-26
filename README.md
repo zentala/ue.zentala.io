@@ -2,7 +2,7 @@
 
 # 🇪🇺 EU 2020 [![Website status](https://img.shields.io/uptimerobot/status/m787025974-4e422831aded279b03c05d57)](https://stats.uptimerobot.com/rB392tAOkQ) [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/zentala/eu.zentala.io)
 ## 🌍 Overview
-Bunch of ideas of how we could reform and modernize the European Union in the spirit of Green Sustainability, Information Economy and 4th Industrial Revolution. You are welcomed to read them all [on the website](https://ue.zentala.io/). This document contains documentation for futher developers and contributors only.
+Bunch of ideas of how we could reform and modernize the European Union in the spirit of Green Sustainability, Information Economy and 4th Industrial Revolution. You are welcomed to read them all [on the website](https://eu.zentala.io/). This document contains documentation for futher developers and contributors only.
 
 
 ## ⚡️ Online development
@@ -23,7 +23,7 @@ Just click the button above and register with your GitHub account if needed. Aft
 
 ### Project structure 🌳
 * `develop` branch
-  * constains source code
+  * contains source code
   * from here you want to develop
   * here you want to merge you PR's
   * important files:
@@ -62,11 +62,11 @@ After a while local server should be running under [http://localhost:8000/](http
 
 ### Known issues 💩
 * submenus are not expandable
-* text logo (idea) needed
 * improve mobile menu
 * connect with some donations system? (Ko-fi is just a mock)
 
 ### Desired features 💥
+* text logo (idea) needed
 * comments to the specyfic part of text
 * versioned webpage (releases)
 * header string in logo
