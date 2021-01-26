@@ -19,8 +19,7 @@ Serverless setup with:
 * [UptimeRobot](https://uptimerobot.com/) - website status every 5 minutes
 
 ## 🌳 Project structure
-Main branches & files structure:
-* `develop`
+* `develop` branch
   * constains source code
   * from here you want to develop
   * here you want to merge you PR's
@@ -28,7 +27,7 @@ Main branches & files structure:
     * [content/](content/) - source of all articles written in markdown
     * [src/](src/) - Gatsby website theme (React.js)
     * [public/](public/) - temporary project built (git-ignored by default)
-* `deploy`
+* `deploy` branch
   * contains built package that is served to the end user
   * NEVER edit it manually
   * deploy here from `develop` with `npm run deploy`
