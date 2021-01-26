@@ -1,34 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://ue.zentala.io/markdown-testing</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ue.zentala.io/social-politics</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ue.zentala.io/ideas-for-poland</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ue.zentala.io/health-care</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ue.zentala.io/finance-reforms</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ue.zentala.io/cultural-integration</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ue.zentala.io/education</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ue.zentala.io/european-egovement</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ue.zentala.io/environment</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ue.zentala.io/cultural-integration</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ue.zentala.io/transport-and-logistics/railway</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ue.zentala.io/social-politics/age-parties</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ue.zentala.io/social-politics/awans-spoleczny</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ue.zentala.io/ideas-for-poland/poland-in-ue</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ue.zentala.io/ideas-for-poland/trojmorze</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ue.zentala.io/health-care/index</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ue.zentala.io/finance-reforms/digital-payment-zone copy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ue.zentala.io/finance-reforms/digital-payment-zone</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ue.zentala.io/finance-reforms</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ue.zentala.io/health-care</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ue.zentala.io/ideas-for-poland</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ue.zentala.io/introduction</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ue.zentala.io/markdown-testing</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ue.zentala.io/social-politics</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ue.zentala.io/cultural-integration/european-media</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ue.zentala.io/transport-and-logistics</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ue.zentala.io/cultural-integration/one-language</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ue.zentala.io/education/life-time-univesities</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ue.zentala.io/education/covid</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ue.zentala.io/education/european-proof-of-skill</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ue.zentala.io/european-egovement/customized-local-law</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ue.zentala.io/european-egovement/educational-fine</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ue.zentala.io/european-egovement/tax-fine</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ue.zentala.io/education/covid</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ue.zentala.io/education/life-time-univesities</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ue.zentala.io/education/european-proof-of-skill</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ue.zentala.io/cultural-integration/european-media</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ue.zentala.io/cultural-integration/one-language</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ue.zentala.io/finance-reforms/digital-payment-zone copy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ue.zentala.io/health-care/index</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ue.zentala.io/finance-reforms/digital-payment-zone</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ue.zentala.io/ideas-for-poland/trojmorze</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ue.zentala.io/ideas-for-poland/poland-in-ue</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ue.zentala.io/social-politics/age-parties</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ue.zentala.io/social-politics/awans-spoleczny</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ue.zentala.io/transport-and-logistics/railway</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ue.zentala.io/transport-and-logistics/autonomous-transportation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ue.zentala.io/transport-and-logistics/manufactures-recycling-responsibility</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ue.zentala.io/transport-and-logistics</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ue.zentala.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ue.zentala.io/introduction/about-me</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ue.zentala.io/education</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ue.zentala.io/introduction</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
