@@ -2,7 +2,7 @@
 
 # EU 2030
 ## Overview
-Bunch of ideas of how we could reform and modernize an European Union in the spirit of Information Economy and 4th Industrial Revolution. You are welcomed to read them all [on the website](https://ue.zentala.io/). This document contains documentation for futher developers and contributors only.
+Bunch of ideas of how we could reform and modernize the European Union in the spirit of Information Economy and 4th Industrial Revolution. You are welcomed to read them all [on the website](https://ue.zentala.io/). This document contains documentation for futher developers and contributors only.
 
 ## About the setup
 * serverless setup with [Gatsby](https://www.gatsbyjs.org)
@@ -40,6 +40,8 @@ npm deploy
 ```
 
 This will build the package and push it to the `main` branch.
+
+## Improve ENV
 
 ## Known issues
 * submenus are not expandable
