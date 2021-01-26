@@ -3,8 +3,9 @@ image:
 
 ports:
   - port: 8000
+    onOpen: open-preview
 
 tasks:
   - init: npm install
     command: npm run start
-    openIn: right
+  - command: zsh
